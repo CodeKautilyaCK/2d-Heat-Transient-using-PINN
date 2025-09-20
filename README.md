@@ -1,3 +1,5 @@
+# 2d Heat Tranisent using PINN's #
+
 Problem:
 Equation: ∂T∂t=α(∂2T∂x2+∂2T∂y2)
 Domain: 1x1 plate, hotspot at center
